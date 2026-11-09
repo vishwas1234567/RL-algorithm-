@@ -1,3 +1,3 @@
 Simple routerversion 2resutls
 
-https://github.com/vishwas1234567/RL-algorithm-/new/main?filename=README.md#:~:text=T-,download,-.png
+https://raw.githubusercontent.com/vishwas1234567/RL-algorithm-/refs/heads/main/download.png
